@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+
+h1 {
+	color: pink;
+}
+
+.main-table {
+	margin: auto;
+	border: 30px solid pink;
+	width: 60%;
+	border-collapse: collapse;
+}
+
+thead {
+	font-weight: bold;
+}
+tr {
+    border-bottom: 1px solid pink;
+}
